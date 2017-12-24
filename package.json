@@ -1,4 +1,6 @@
 { 
+  "name": "react-typescript-parcel-skeleton",
+  "version": "1.0",
   "license": "MIT",
   "dependencies": {
     "react": "^16.2.0",
