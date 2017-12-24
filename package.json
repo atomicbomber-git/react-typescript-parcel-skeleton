@@ -13,7 +13,7 @@
     "typescript": "^2.6.2"
   },
   "scripts": {
-    "start": "./node_modules/parcel-bundler/bin/cli.js ./src/index.js",
-    "build": "./node_modules/parcel-bundler/bin/cli.js build ./src/index.js"
+    "start": "./node_modules/parcel-bundler/bin/cli.js ./src/index.html",
+    "build": "./node_modules/parcel-bundler/bin/cli.js build ./src/index.html"
   }
 }

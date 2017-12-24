@@ -6,3 +6,6 @@ How to use:
 * Issue the command `yarn install` to install all the dependencies.
 * Fiddle the code in `/src`.
 * Compile using `yarn start` (development mode) or `yarn build` (production mode).
+
+If you used `yarn start` to build the project, you can head to `http://localhost:1234` to view the
+index page that has been built.
